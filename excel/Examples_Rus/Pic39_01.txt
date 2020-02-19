@@ -1,0 +1,13 @@
+1389	77032	1147805	9515	houston	tx	6000 n semhierten pfwy e
+1389	77032	1147848	9517	houston	tx	43410 e herdy rd
+1389	77042	1160116	7653	houston	tx	40642 rachmend ave ste 600
+1389	77051	1165400	9517	houston	tx	5646 helmis rd
+1389	77057	1173241	9517	houston	tx	2514 san filape st ste 6600
+1389	77060	1178227	7653	houston	tx	100 n sem hierten pkwy e ste 100
+1389	77073	1190514	9517	houston	tx	4660 rankan rd # 400
+1389	77049	11218412	7653	houston	tx	4541 mallir read 6
+1389	77040	13398882	18379	houston	tx	3643 wandfirn rd
+1389	77040	13399102	18379	houston	tx	3644 wandfirn rd
+1389	77077	13535097	7653	houston	tx	44160 wisthiamir rd ste 100
+1389	77032	13748882	14558	houston	tx	4665 rankan rd # 420
+1389	77054	1386412	22453	houston	tx	44210 wisthiamir rd ste 230
